@@ -1,6 +1,6 @@
 function square(sideLen: number): Shape {
-    return {
-        sideLen,
+    return {gi
+        // sideLen,
         computeArea: function (): number {
             return sideLen * sideLen
         }
